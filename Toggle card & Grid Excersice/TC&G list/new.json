@@ -1,0 +1,82 @@
+[{
+    "name":"kohli",
+    "empid":"123318",
+    "skills":"React js",
+    "project":"Cognizant Interval",
+    "HCM":"Alex",
+    "Gender":"M"
+},
+{
+    "name":"Mandana",
+    "empid":"875642",
+    "skills":"Java",
+    "project":"Cognizant Interval",
+    "HCM":"Alex",
+    "Gender":"F"
+
+},
+{
+    "name":"Dhoni",
+    "empid":"475775",
+    "skills":"React js",
+    "project":"Cognizant Interval",
+    "HCM":"Alex",
+    "Gender":"M"
+},
+{
+    "name":"Reddy",
+    "empid":"234567",
+    "skills":"Python",
+    "project":"Cognizant Interval",
+    "HCM":"Alex",
+    "Gender":"M"
+},
+{
+    "name":"Jadeja",
+    "empid":"123456",
+    "skills":"Java",
+    "project":"Cognizant Interval",
+    "HCM":"Alex",
+    "Gender":"M"
+},
+{
+    "name":"Raina",
+    "empid":"834567",
+    "skills":"React js",
+    "project":"Cognizant Interval",
+    "HCM":"Alex",
+    "Gender":"M"
+},
+{
+    "name":"Rohith",
+    "empid":"846734",
+    "skills":"Python",
+    "project":"Cognizant Interval",
+    "HCM":"Alex",
+    "Gender":"M"
+
+},
+{
+    "name":"Anu",
+    "empid":"846743",
+    "skills":"testing",
+    "project":"Cognizant Interval",
+    "HCM":"Alex",
+    "Gender":"F"
+},
+{
+    "name":"Reddysekhar",
+    "empid":"846741",
+    "skills":"React js",
+    "project":"Cognizant Interval",
+    "HCM":"Alex",
+    "Gender":"M"
+},
+{
+    "name":"Mahesh",
+    "empid":"876742",
+    "skills":"React js",
+    "project":"Cognizant Interval",
+    "HCM":"Alex",
+    "Gender":"M"
+} ]

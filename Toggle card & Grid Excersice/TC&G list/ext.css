@@ -1,0 +1,90 @@
+body{
+    padding-left: 130px;
+    padding-right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #003466;
+    position: relative;
+
+}
+.grid-container {
+   
+    padding: 10px;
+    justify-content: space-around;
+    grid-gap: 10px;
+    display: grid;
+    grid-template-columns: 310px 310px 310px;
+  }
+  .container {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid white;
+    padding: 20px;
+    font-size: 20px;  
+    background-color: white;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    ;
+    
+  }
+  .close{
+    color:red;
+    font-size: 30px;
+    cursor: pointer;
+    margin-left: 250px;
+}
+.edit{
+    margin-left: 230px;
+    
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  table, th, td {
+    border: 3px solid #003466;
+  }
+  .close1{
+    color: red;
+    font-size:40px;
+    cursor: pointer; 
+    margin-left: 40px; 
+    margin-right: 0em;
+}
+.invisible{
+    visibility: hidden;
+}
+.visible{
+    visibility: visible;
+}
+.tooglegrid{
+    position: absolute;
+}
+.tooglelist{
+    position: absolute;
+}
+.togglebutton{
+    margin-left:900px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.imgsize{
+    width: 250px;
+}
+.imgsize2{
+    width:250px;
+    height:150px;
+}
+li{
+    list-style: none;
+    margin-left: -30px;
+}
